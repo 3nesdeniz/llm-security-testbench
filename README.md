@@ -16,6 +16,10 @@ The first supported corpus is the open
 [Turkish Conversation Prompt-Injection Dataset](https://huggingface.co/datasets/3nesdeniz/turkish-conversation-prompt-injection).
 The engine itself is dataset- and detector-agnostic.
 
+The evaluation approach and its production implications are explained in the
+Turkish technical note
+[Prompt Injection Savunmaları Üretime Girmeden Nasıl Test Edilmeli?](https://medium.com/p/56801b23aa3f).
+
 ## Why this exists
 
 Attack-only evaluation rewards systems that block aggressively. A detector can report
