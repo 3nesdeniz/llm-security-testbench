@@ -1,0 +1,8 @@
+{"id":"attack-1","prediction":"attack","score":0.9}
+{"id":"benign-1","prediction":"benign","score":0.1}
+{"id":"attack-2","prediction":"benign","score":0.4}
+{"id":"benign-2","prediction":"attack","score":0.8}
+{"id":"benign-3","prediction":"benign","score":0.2}
+{"id":"benign-4","prediction":"benign","score":0.3}
+{"id":"benign-5","prediction":"benign","score":0.2}
+{"id":"benign-6","prediction":"benign","score":0.1}

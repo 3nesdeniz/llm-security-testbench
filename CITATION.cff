@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, cite it together with the evaluated dataset."
+title: "LLM Security Testbench"
+type: software
+version: 0.1.0
+date-released: 2026-07-11
+authors:
+  - family-names: Deniz
+    given-names: Enes
+    affiliation: AltaySec
+repository-code: "https://github.com/3nesdeniz/llm-security-testbench"
+url: "https://github.com/3nesdeniz/llm-security-testbench"
+license: Apache-2.0
+keywords:
+  - AI security
+  - LLM security
+  - prompt injection
+  - guardrail evaluation
+  - red teaming
+  - blue teaming
