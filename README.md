@@ -247,6 +247,9 @@ If this software supports published work, cite [CITATION.cff](CITATION.cff) and 
 dataset used for the run. Dataset results should always include the exact revision,
 split, threshold, and predictor configuration.
 
+Author: [Enes Deniz](https://orcid.org/0009-0006-9491-3565), ORCID
+[`0009-0006-9491-3565`](https://orcid.org/0009-0006-9491-3565).
+
 ## License
 
 Code is licensed under [Apache License 2.0](LICENSE). Dataset licenses are independent;

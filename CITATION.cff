@@ -7,6 +7,7 @@ date-released: 2026-07-11
 authors:
   - family-names: Deniz
     given-names: Enes
+    orcid: "https://orcid.org/0009-0006-9491-3565"
     affiliation: AltaySec
 repository-code: "https://github.com/3nesdeniz/llm-security-testbench"
 url: "https://github.com/3nesdeniz/llm-security-testbench"
