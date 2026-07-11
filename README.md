@@ -1,5 +1,10 @@
 # LLM Security Testbench
 
+[![CI](https://github.com/3nesdeniz/llm-security-testbench/actions/workflows/ci.yml/badge.svg)](https://github.com/3nesdeniz/llm-security-testbench/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/3nesdeniz/llm-security-testbench)](https://github.com/3nesdeniz/llm-security-testbench/releases/tag/v0.1.0)
+[![Python](https://img.shields.io/badge/python-3.10%2B-3776AB)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-Apache--2.0-555555)](LICENSE)
+
 **Reproducible, pair-aware evaluation for prompt-injection detectors and LLM guardrails.**
 
 LLM Security Testbench measures two requirements at the same time: whether a defense
